@@ -1,1 +1,1 @@
-# static_h1
+# first time use github pages hosting
