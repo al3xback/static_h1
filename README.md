@@ -1,1 +1,1 @@
-# first time use github pages hosting
+# github pages is cool
